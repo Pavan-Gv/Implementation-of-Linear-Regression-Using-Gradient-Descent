@@ -58,6 +58,7 @@ plt.xlabel("Iterations")
 plt.ylabel("loss")
 plt.show()
 ~~~
+```
 
 ## Output:
 ![Intro](https://user-images.githubusercontent.com/94827772/161199791-27bb0440-885b-4274-9a81-46f550482724.png)
